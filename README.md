@@ -1,4 +1,4 @@
 # Projects
 This is my project
 <br>
-Author -Syed Shahith Ahamed
+Author -Syed Shahith Ahamed S H
